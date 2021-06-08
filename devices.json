@@ -1,0 +1,16 @@
+[
+   {
+      "brand": "Xiaomi",
+      "codename": "olivewood",
+      "name": "Redmi 8A Dual",
+      "supported_versions": [
+         {
+            "maintainer_name": "Aghora7",
+            "maintainer_url": "https://forum.xda-developers.com/m/aghora7.5944948/",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": "https://forum.xda-developers.com/"
+         }
+      ]
+   }
+]
