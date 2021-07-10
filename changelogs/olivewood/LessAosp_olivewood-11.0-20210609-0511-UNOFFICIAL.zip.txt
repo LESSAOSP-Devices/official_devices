@@ -1,3 +1,0 @@
-Bt audio fixed
-Notch fixed
-Battery capacity fixed
