@@ -1,0 +1,4 @@
+Source Changelog:
+* Tint QS Tile with accent color
+* Allow user to add/remove QS with one click
+* Quick Setting secure in screen lock
